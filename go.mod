@@ -18,7 +18,7 @@ require (
 	github.com/safing/portbase v0.16.0
 	github.com/safing/spn v0.5.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
-	github.com/spf13/cobra v1.5.0
+	github.com/spf13/cobra v1.6.0
 	github.com/spkg/zipfs v0.7.1
 	github.com/stretchr/testify v1.8.0
 	github.com/tannerryan/ring v1.1.2
