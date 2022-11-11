@@ -155,8 +155,8 @@ github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQD
 github.com/safing/jess v0.3.0 h1:NxerZE5Vrludn00gyR4VeZaNjbDYq/qBzmcV3SLfjd4=
 github.com/safing/jess v0.3.0/go.mod h1:JbYsPk5iJZx0OXDZeMcjS9qEdkGVUg+DCA8Fw2LdN9s=
 github.com/safing/portbase v0.15.2/go.mod h1:5bHi99fz7Hh/wOsZUOI631WF9ePSHk57c4fdlOMS91Y=
-github.com/safing/portbase v0.16.0 h1:oGu5xVuMyzkG6Fht+kKbyHvA8CEJEexuCvsYQuyh6vs=
-github.com/safing/portbase v0.16.0/go.mod h1:mzNCWqPbO7vIYbbK5PElGbudwd2vx4YPNawymL8Aro8=
+github.com/safing/portbase v0.16.3 h1:9P8h5KWg7zaeW66pYaW1RN+5jUUwhFo1ruKa80aX/do=
+github.com/safing/portbase v0.16.3/go.mod h1:mzNCWqPbO7vIYbbK5PElGbudwd2vx4YPNawymL8Aro8=
 github.com/safing/spn v0.5.1 h1:SPTG9S7BfUBpnrg8pmTFsaSlRowSljlZ0hT4NQFHnjE=
 github.com/safing/spn v0.5.1/go.mod h1:IuQNzXhR8sSi7sq4KXIH1rK9N3Z94A3nRgItjfDB6Dg=
 github.com/satori/go.uuid v1.2.0 h1:0uYX9dsZ2yD7q2RtLRtPSdGDWzjeM3TbMJP9utgA0ww=
